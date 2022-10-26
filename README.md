@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bylonlog
-- 👀 I’m interested in Cyber Work's
-- 🌱 I’m currently learning bla bal bla
-- 💞️ I’m looking to collaborate on Project's
-- 📫 How to reach me hi.bylonlog@skiff.com
+- 👀 Interested in Cyber Work's
+- 🌱 Currently learning bla bal bla
+- 💞️ Looking to collaborate on Project's
+- 📫 Reach me via hi.bylonlog@skiff.com
 
 <!---
 bylonlog/bylonlog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
