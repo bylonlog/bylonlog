@@ -7,10 +7,10 @@
 
 ```css
 @BylonLog { 
-  True-Name: Albin_Shiby
-  State: Currently nthng 
-  Interest: Bit_Of_EvryThg
-  SPR-Power: I_Use_Arch_BTW
+  True-Name: Albin_Shiby ;
+  State: Currently_nthng ;
+  Interest: Bit_Of_EvryThg ;
+  SPR-Power: I_Use_Arch_BTW ;
   
 }
 ```
