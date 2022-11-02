@@ -7,9 +7,9 @@
 
 ```css
 @BylonLog { 
-  True Name: Albin Shiby
-  State: nthng; 
-  Interest: Cyber Work
+  True Name: Albin_Shiby;
+  State: Currently nthng; 
+  Interest: Bit_Of_EvryThg;
 }
 ```
 
