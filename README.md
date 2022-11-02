@@ -7,11 +7,9 @@
 
 ```css
 @BylonLog { 
-  position: Hángzhōu; 
-  height: 171cm; 
-  display: boy; 
-  background: Tinker Resolver 🔨; 
-  color: yellow 
+  True Name: Albin Shiby
+  State: nthng; 
+  Interest: Cyber Work
 }
 ```
 
