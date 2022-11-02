@@ -105,11 +105,12 @@ Check out my repos ⬇️
 #Social-Media {
    twitter: @BylonLog
    instagram: @BylonLog
-   github: @BylonLo
+   github: @BylonLog
    gitlab: @BylonLog
 }
+
 #Contact {
-   Email: hi.bylonlog@sliff.com
+   Email: hi.bylonlog@skiff.com
    telegram: @BylonLog
 }
 ```
