@@ -7,8 +7,10 @@
   SPR-Power: I-Use-Arch-BTW ;
   Skills: HTML,CSS,Py,C,Shell ;
   Contact: url('mail-me'); 
-  twitter: @Bylonlog
-  instagram: @BylonLog
+  Twitter: @Bylonlog
+  Instagram: @BylonLog
+  Gitlab: @BylonLog
+  Github: @BylonLog
 }
 ```
 
