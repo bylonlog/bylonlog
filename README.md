@@ -5,9 +5,10 @@
   State: Currently_nthng ;
   Interest: Bit_Of_EvryThg ;
   SPR-Power: I_Use_Arch_BTW ;
-  Skills: HTML_&_CSS;
-           Python;
-           C##
+  Skills: HTML-&-CSS;
+          Python;
+          C##;
+  Lets-Talk: url('https://bylonlog.github.io');        
 }
 ```
 
