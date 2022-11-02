@@ -96,7 +96,7 @@ Check out my repos ⬇️
 <a href="https://github.com/bylonlog/github-readme-activity-graph"><img alt="ThatBynln's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=bylonlog&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 
-```
+```js
 @BylonLog {
    name: AlbinShiby;
    code-name: BylonLog;
@@ -104,6 +104,8 @@ Check out my repos ⬇️
 #Social-Media {
    twitter: @BylonLog
    instagram: @BylonLog
+   github: @BylonLo
+   gitlab: @BylonLog
 }
 ```
 
