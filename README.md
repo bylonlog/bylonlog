@@ -15,7 +15,7 @@ Check out my repos ⬇️
 
 
 <details>
-  <summary>🌏 Global Img</summary>
+  <summary>🌏 Global Image</summary>
 <div>
 <h2 align="center"> Find Something About Me From This Img </h2>
 </div>
@@ -71,7 +71,7 @@ Check out my repos ⬇️
 </details>
 
 <details> 
-  <summary>💻 GitHub Status</summary>
+  <summary>💻 GitHub Activity Status</summary>
   <div>
     <h2 align="center"> 📊 Github Profile Stats </h2>
       <br/>
