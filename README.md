@@ -5,9 +5,7 @@
   State: Currently-nthng ;
   Interest: Bit-Of-EvryThg ;
   SPR-Power: I-Use-Arch-BTW ;
-  Skills: HTML-&-CSS;
-          Python;
-          C-Lang;
+  Skills: HTML,CSS,Py,C,Shell ;
   Contact: url('mail-me'); 
   twitter: @Bylonlog
   instagram: @BylonLog
