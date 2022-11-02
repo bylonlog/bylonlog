@@ -11,7 +11,9 @@
   State: Currently_nthng ;
   Interest: Bit_Of_EvryThg ;
   SPR-Power: I_Use_Arch_BTW ;
-  
+  Skill's: HTML & CSS;
+           Python;
+           C##
 }
 ```
 
