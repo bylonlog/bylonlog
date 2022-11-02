@@ -7,7 +7,7 @@
   SPR-Power: I_Use_Arch_BTW ;
   Skills: HTML-&-CSS;
           Python;
-          C##;
+          C-Lang;
   Lets-Talk: url('https://bylonlog.github.io');        
 }
 ```
