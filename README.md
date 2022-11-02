@@ -8,7 +8,7 @@
   Skills: HTML-&-CSS;
           Python;
           C-Lang;
-  Lets-Talk: url('https://bylonlog.github.io');        
+  Lets-Talk: url('mail-me');        
 }
 ```
 
