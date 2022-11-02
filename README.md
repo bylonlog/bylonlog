@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/bylonlog/bylonlog/blob/main/resources/img/waving.gif">, I'm BylonLog</h1>
-<h4 align="center">Beware Of this User, He Use Arch ByeTheWay</h4>
+<h4 align="center">Beware Of this User, He Use Arch Bye The Way</h4>
 </div>
 
 <div align="center">
