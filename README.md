@@ -95,7 +95,16 @@ Check out my repos ⬇️
   <h2 align="center"> latest contribution Graph </h2>
 <a href="https://github.com/bylonlog/github-readme-activity-graph"><img alt="ThatBynln's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=bylonlog&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
-
+```css
+@BylonLog {
+   name: AlbinShiby;
+   code-name: BylonLog;
+}
+#Social-Media {
+   twitter: @BylonLog
+   instagram: @BylonLog
+}
+```
 
 <!---
 bylonlog/bylonlog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
