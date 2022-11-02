@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @bylonlog
-- 👀 Interested in Cyber Work's
-- 🌱 Currently learning bla bal bla
-- 💞️ Looking to collaborate on Project's
-- 📫 Reach me via hi.bylonlog@skiff.com
-
 
 ```css
 @BylonLog { 
@@ -11,7 +5,7 @@
   State: Currently_nthng ;
   Interest: Bit_Of_EvryThg ;
   SPR-Power: I_Use_Arch_BTW ;
-  Skill's: HTML & CSS;
+  Skills: HTML_&_CSS;
            Python;
            C##
 }
