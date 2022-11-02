@@ -101,11 +101,16 @@ Check out my repos ⬇️
    name: AlbinShiby;
    code-name: BylonLog;
 }
+
 #Social-Media {
    twitter: @BylonLog
    instagram: @BylonLog
    github: @BylonLo
    gitlab: @BylonLog
+}
+#Contact {
+   Email: hi.bylonlog@sliff.com
+   telegram: @BylonLog
 }
 ```
 
