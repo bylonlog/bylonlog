@@ -8,7 +8,9 @@
   Skills: HTML-&-CSS;
           Python;
           C-Lang;
-  Lets-Talk: url('mail-me');        
+  Contact: url('mail-me'); 
+  twitter: @Bylonlog
+  instagram: @BylonLog
 }
 ```
 
