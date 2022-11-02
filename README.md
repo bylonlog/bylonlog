@@ -1,10 +1,10 @@
 
 ```css
 @BylonLog { 
-  True-Name: Albin_Shiby ;
-  State: Currently_nthng ;
-  Interest: Bit_Of_EvryThg ;
-  SPR-Power: I_Use_Arch_BTW ;
+  True-Name: Albin-Shiby ;
+  State: Currently-nthng ;
+  Interest: Bit-Of-EvryThg ;
+  SPR-Power: I-Use-Arch-BTW ;
   Skills: HTML-&-CSS;
           Python;
           C-Lang;
