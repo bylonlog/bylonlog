@@ -14,7 +14,7 @@ Check out something more ⬇️
 </p>
 
 
-```
+```python
 @BylonLog {
    name: AlbinShiby;
    code-name: BylonLog;
