@@ -9,7 +9,7 @@
        alt="snake" /></a>
 </div>
 <p align="center"><samp>
-Check out my repos ⬇️  
+Check out something more ⬇️  
   </samp>
 </p>
 
@@ -30,6 +30,7 @@ Check out my repos ⬇️
 #Contact {
    Email: hi.bylonlog@skiff.com
    telegram: @BylonLog
+   web-page: bylonlog.github.io
 }
 ```
 
