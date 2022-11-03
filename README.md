@@ -38,23 +38,11 @@ Contact {
 
  
 <details>
-  <summary>📈 Latest Acti-Graph</summary>
+  <summary>📈 If Anything More</summary>
   <br/>
   
-📊 Stats
+📊 Something More
 ------
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skewlinez&theme=material-palenight" />
- </p>
-
-<p align="right" >
-  <img src="https://github-readme-stats.vercel.app/api?username=skewlinez&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true" />
-  
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=skewlinez&theme=material-palenight" />
-</p>
 
 
 
