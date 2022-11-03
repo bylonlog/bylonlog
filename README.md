@@ -47,7 +47,7 @@ Contact {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=skewlinez&theme=material-palenight" />
  </p>
 
-<p float="" >
+<p float="right" >
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=skewlinez&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true" />
   
 </p>
