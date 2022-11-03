@@ -35,30 +35,29 @@ Contact {
 ```
 
 
-<details> 
-  <summary>💻 GitHub Activity Status</summary>
-  <div>
-    <h2 align="center"> 📊 Github Profile Stats </h2>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/bylonlog/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bylonlog&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="bylonlog :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/bylonlog/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bylonlog&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bylonlog&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-  </div>    
-</details>
+
  
 <details>
   <summary>📈 Latest Acti-Graph</summary>
   <br/>
-  <h2 align="center"> latest contribution Graph </h2>
-<a href="https://github.com/bylonlog/github-readme-activity-graph"><img alt="ThatBynln's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=bylonlog&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  
+📊 Stats
+------
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skewlinez&theme=material-palenight" />
+ </p>
+
+<p float="right" >
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=skewlinez&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true" />
+  <img align="right" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skewlinez&theme=material-palenight&layout=compact&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=skewlinez&theme=material-palenight" />
+</p>
+
+
+
 </details>
 <!---
 bylonlog/bylonlog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
