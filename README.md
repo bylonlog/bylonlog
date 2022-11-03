@@ -20,14 +20,14 @@ Check out something more ⬇️
    code-name: BylonLog;
 }
 
-#Social-Media {
+Social-Media {
    twitter: @BylonLog
    instagram: @BylonLog
    github: @BylonLog
    gitlab: @BylonLog
 }
 
-#Contact {
+Contact {
    Email: hi.bylonlog@skiff.com
    telegram: @BylonLog
    web-page: bylonlog.github.io
